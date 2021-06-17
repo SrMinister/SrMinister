@@ -4,7 +4,6 @@ My name is Kaique Ricardo, I'm 16 years old and most of the time
 I spend developing in Java
 and I try to learn more every day.
 
-
 ### My Skills
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="rails" width="" height="40" style="max-width:100%;"></img>
  
