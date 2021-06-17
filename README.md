@@ -1,6 +1,6 @@
 ### Welcome to my github :globe_with_meridians:	
 
-My name is Kaique Ricardo, I'm 16 years old and most of the time
+My name is Kaique Ricardo, I'm 16 years old and most of the time <br>
 I spend developing in Java <br>
 and I try to learn more every day. 
 
