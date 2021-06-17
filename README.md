@@ -13,7 +13,7 @@ and I try to learn more every day.
   ![Github Desktop](https://img.shields.io/badge/GitHub_Desktop-gray?style=for-the-badge&logo=github&logoColor=purple) 
 
 <br/>
-
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <details>
   <summary>💬 Contact</summary>
    </br> <img align="left" alt="Discord" target="_blank" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
