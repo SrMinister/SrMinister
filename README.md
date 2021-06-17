@@ -1,6 +1,7 @@
 ### MINHAS HABILIDADES
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="rails" width="" height="40" style="max-width:100%;"></img>
  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
  
