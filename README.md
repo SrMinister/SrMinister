@@ -13,9 +13,10 @@ and I try to learn more every day.
   ![Github Desktop](https://img.shields.io/badge/GitHub_Desktop-gray?style=for-the-badge&logo=github&logoColor=purple) 
 
 <br/>
+
+<details>
   <summary>💬 Contact</summary>
    </br> <img align="left" alt="Discord" target="_blank" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
-  <string>SrMinister#0001</string>
-<br/>
+  <string>SrMinister_#0001</string>
 
 [![SrMinister stats](https://github-readme-stats.vercel.app/api?username=SrMinister&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/SrMinister/)<!--
