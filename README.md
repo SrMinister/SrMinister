@@ -17,10 +17,10 @@ and I try to learn more every day.
 <details>
   <summary>💬 Contact</summary>
    </br> <img align="left" alt="Discord" target="_blank" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
-  <string>Yuhtin#9147</string>
+  <string>SrMinister_#0001</string>
   
    </br> <img align="left" alt="Twitter" target="_blank" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
-  <string>@Yuhtin_</string> </br>
+  <string>@Kaiquy_Ricardo</string> </br>
 </details> 
   
 <br/>
