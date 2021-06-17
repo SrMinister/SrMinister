@@ -10,7 +10,7 @@ and I try to learn more every day.
 ### 🚀 Tools
 
   ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=blue)   
- 
+  ![Github Desktop](https://img.shields.io/badge/GitHub_Desktop-gray?style=for-the-badge&logo=github&logoColor=purple) 
 
 <br/>
 
@@ -18,7 +18,8 @@ and I try to learn more every day.
   <summary>💬 Contact</summary>
    </br> <img align="left" alt="Discord" target="_blank" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
   <string>SrMinister_#0001</string>
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SrMinister&theme=tokyonight&fire=DD6400&ring=DD6400&currStreakNum=DD985F&stroke=484848)](https://git.io/streak-stats)
+
+
 [![SrMinister stats](https://github-readme-stats.vercel.app/api?username=SrMinister&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/Yuhtin/)<!--
 **SrMinister/SrMinister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
