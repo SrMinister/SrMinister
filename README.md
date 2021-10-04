@@ -16,7 +16,7 @@ and I try to learn more every day.
 <details>
   <summary>💬 Contact</summary>
    </br> <img align="left" alt="Discord" target="_blank" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
-  <string>SrMinister_#0001</string>
+  <string>SrMinister_#2818</string>
   
    </br> <img align="left" alt="Twitter" target="_blank" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
   <string>@Kaiquy_Ricardo</string> </br>
