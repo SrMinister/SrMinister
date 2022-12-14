@@ -6,14 +6,11 @@
 
 <code><img height="30" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></code>
 
-### 🚀 Programas que utilizo em meus projetos.
+### 🚀 Programs I use in my projects.
 
 <code><img height="30" src="https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij-idea&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/GitHub_Desktop-gray?style=for-the-badge&logo=github&logoColor=purple"></code>
-  
-![Snake animation](https://github.com/NailsonDev/NailsonDev/blob/output/github-contribution-grid-snake.svg)
-
- 
+    
 
 <br/>
 <details>
