@@ -1,16 +1,19 @@
-### Welcome to my github :globe_with_meridians:	
 
-My name is Kaique Ricardo, I'm 17 years old and most of the time <br>
-I spend developing in Java <br>
-and I try to learn more every day. 
+
+<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" min-width="200px" max-width="200px" width="400px" align="right" alt="Computer">
 
 ### :clipboard: Technologies:
-   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-   
-### 🚀 Tools
 
-  ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=blue)   
-  ![Github Desktop](https://img.shields.io/badge/GitHub_Desktop-gray?style=for-the-badge&logo=github&logoColor=purple) 
+<code><img height="30" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></code>
+
+### 🚀 Programas que utilizo em meus projetos.
+
+<code><img height="30" src="https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij-idea&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/GitHub_Desktop-gray?style=for-the-badge&logo=github&logoColor=purple"></code>
+  
+![Snake animation](https://github.com/NailsonDev/NailsonDev/blob/output/github-contribution-grid-snake.svg)
+
+ 
 
 <br/>
 <details>
