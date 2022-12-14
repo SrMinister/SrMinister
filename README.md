@@ -10,20 +10,7 @@
 
 <code><img height="30" src="https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij-idea&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/GitHub_Desktop-gray?style=for-the-badge&logo=github&logoColor=purple"></code>
-    
-
-<br/>
-<details>
-  <summary>💬 Contact</summary>
-   </br> <img align="left" alt="Discord" target="_blank" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
-  <string>SrMinister_#2818</string>
-  
-   </br> <img align="left" alt="Twitter" target="_blank" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
-  <string>@Kaiquy_Ricardo</string> </br>
-</details> 
-  
-<br/>
-   
+ 
 
 [![SrMinister stats](https://github-readme-stats.vercel.app/api?username=SrMinister&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/SrMinister/)<!--
 
