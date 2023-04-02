@@ -11,6 +11,7 @@ and I try to learn more every day.
 ### :clipboard: Technologies:
 
 <code><img height="30" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/MySQL-007396?style=for-the-badge&logo=java&logoColor=white"></code>
 
 ### 🚀 Programs I use in my projects.
 
