@@ -17,9 +17,6 @@ and I try to learn more every day.
 
 <code><img height="30" src="https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij-idea&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/GitHub_Desktop-gray?style=for-the-badge&logo=github&logoColor=purple"></code>
- 
- 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ### 🍷 Chat with me over here!
 [![Discord Presence](https://lanyard.cnrad.dev/api/1062171838823792660)](https://discord.com/users/1062171838823792660)
