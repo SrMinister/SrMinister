@@ -21,5 +21,5 @@ and I try to learn more every day.
  
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-# 🍷 Converse comigo por aqui!
+### 🍷 Chat with me over here!
 [![Discord Presence](https://lanyard.cnrad.dev/api/1062171838823792660)](https://discord.com/users/1062171838823792660)
